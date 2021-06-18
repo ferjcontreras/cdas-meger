@@ -1,0 +1,9 @@
+export FFTW3ROOT=/lRaid/opt/CDAS/ape/External/fftw/3.3.3
+export ROOTSYS=/lRaid/opt/CDAS/ape/External/root/5.34.00-561c9478a3
+export BOOSTROOT=/lRaid/opt/CDAS/ape/External/boost/1_59_0
+export MANPATH=/lRaid/opt/CDAS/ape/External/root/5.34.00-561c9478a3/share/man:/lRaid/opt/CDAS/ape/External/fftw/3.3.3/share/man:/lRaid/opt/CDAS/ape/cmake/3.7.2/man:
+export AERAROOTIO=/lRaid/opt/CDAS/ape/aerarootio/v00r14
+export CDASHOME=/lRaid/opt/CDAS/ape/cdas-user-v5r9prod
+export PATH=/lRaid/opt/CDAS/ape/cdas-user-v5r9prod/bin:/lRaid/opt/CDAS/ape/External/root/5.34.00-561c9478a3/bin:/lRaid/opt/CDAS/ape/External/fftw/3.3.3/bin:/lRaid/opt/CDAS/ape/cmake/3.7.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+export LD_LIBRARY_PATH=/lRaid/opt/CDAS/ape/cdas-user-v5r9prod/lib:/lRaid/opt/CDAS/ape/aerarootio/v00r14/lib:/lRaid/opt/CDAS/ape/fdeventlib/4.1.9/lib:/lRaid/opt/CDAS/ape/External/boost/1_59_0/lib:/lRaid/opt/CDAS/ape/External/root/5.34.00-561c9478a3/lib/root:/lRaid/opt/CDAS/ape/External/fftw/3.3.3/lib
+export FD_ROOT=/lRaid/opt/CDAS/ape/fdeventlib/4.1.9
